@@ -1,0 +1,20 @@
+body{
+background: #c0c0c0;}
+h1{
+text-align: center;
+font-weight:bolder;
+color:#808000;
+font-size: 22px;}
+h2{
+color: #ffcb40;
+font-size: 22px;}
+a{
+font-style:italic;
+color:#666666;}
+div{
+font-style:normal;
+color: #666666;
+font-size: 18px;}
+li{font-size: 20px;}
+li{color:#0000ff;;}
+p{text-align: right;}
